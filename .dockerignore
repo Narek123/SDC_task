@@ -1,0 +1,17 @@
+# compiled output
+/dist
+/node_modules
+.env
+.eslintrc
+.prettierrc
+Dockerfile
+docker-compose.yml
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# IDEs and editors
+/.idea
